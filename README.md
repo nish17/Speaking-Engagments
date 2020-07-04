@@ -12,8 +12,6 @@
 
 ## Tech-Talks
 
-I've delivered talks at GDG Ahmedabad's Devfest 2018 and 2019.
-
 ### GDG DevFest Ahmedabad 2019
 
 It was a lightning talk on **Best Practices for Voice User Interface Design**. I spoke about best practices and tricks to make you voice app stand out.
@@ -31,10 +29,14 @@ More details [over here](./Tech-Talks/DevFest-Ahmedabad-2018/README.md)
 
 ### Alexa Skill Development Workshop at PDPU
 
+I was invited to conduct a workshop on Alexa Skill development by EnCode (programming club of Pandit Deedayal Petroleum University).
+
 More details [over here](./Workshops/Alexa-Workshop-at-PDPU/README.md)
 
 ## Podcasts
 
 ### Inside Voice Podcast
+
+I was invited by Voice Summit to speak at their Podcast Inside Voice Podcast. 
 
 More details [over here](./Podcasts/Inside-Voice-Podcast/README.md)

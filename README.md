@@ -10,32 +10,32 @@
 - [Podcasts](#Podcasts)
   - [Inside Voice Podcast](#insideVoice)
 
-## Tech-Talks
+## [Tech-Talks](./Tech-Talks)
 
-### GDG DevFest Ahmedabad 2019
+### [GDG DevFest Ahmedabad 2019](./Tech-Talks/DevFest-Ahmedabad-2019/README.md)
 
 It was a lightning talk on **Best Practices for Voice User Interface Design**. I spoke about best practices and tricks to make you voice app stand out.
 
 More details [over here](./Tech-Talks/DevFest-Ahmedabad-2019/README.md)
 
-### GDG DevFest Ahmedabad 2018
+### [GDG DevFest Ahmedabad 2018](./Tech-Talks/DevFest-Ahmedabad-2018/README.md)
 
 It was a codelab session on **Action on Google**. I spoke about the ways to make the Google Assistant's response dynamic.
 
 More details [over here](./Tech-Talks/DevFest-Ahmedabad-2018/README.md)
 
 
-## Workshops
+## [Workshops](./Workshops)
 
-### Alexa Skill Development Workshop at PDPU
+### [Alexa Skill Development Workshop at PDPU](./Workshops/Alexa-Workshop-at-PDPU/README.md)
 
 I was invited to conduct a workshop on Alexa Skill development by EnCode (programming club of Pandit Deedayal Petroleum University).
 
 More details [over here](./Workshops/Alexa-Workshop-at-PDPU/README.md)
 
-## Podcasts
+## [Podcasts](./Podcasts)
 
-### Inside Voice Podcast
+### [Inside Voice Podcast]((./Podcasts/Inside-Voice-Podcast/README.md))
 
 I was invited by Voice Summit to speak at their Podcast Inside Voice Podcast. 
 

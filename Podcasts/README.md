@@ -1,8 +1,8 @@
 # Podcasts
 
-## Inside Voice Podcast by Voice Summit 2019
+## [Inside Voice Podcast](https://podcasts.apple.com/us/podcast/inside-voice/id1447407838) by [Voice Summit](https://www.voicesummit.ai/) 2019
 
-I got this wonderful opportunity to share my journey in voice-tech with [Keri Roberts]( https://twitter.com/kerinroberts) (the amazing host of Inside Voice Podcast) on Inside Voice Podcast.
+I got this wonderful opportunity to share my journey in voice-tech with [Keri Roberts]( https://twitter.com/kerinroberts) (the amazing host) on [Inside Voice Podcast](https://podcasts.apple.com/us/podcast/inside-voice/id1447407838).
 
 Episode Name: Developing Voice Skills as a Student
 

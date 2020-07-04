@@ -31,10 +31,10 @@ More details [over here](./Tech-Talks/DevFest-Ahmedabad-2018/README.md)
 
 ## Alexa Skill Development Workshop at PDPU
 
-More details [over here]()
+More details [over here](./Workshops/Alexa-Workshop-at-PDPU/README.md)
 
 # Podcasts
 
 ## Inside Voice Podcast
 
-Please find the link of the podcast [over here](https://podcasts.apple.com/us/podcast/developing-voice-skills-as-a-student/id1447407838?i=1000447426808)
+More details [over here](./Podcasts/Inside-Voice-Podcast/README.md)

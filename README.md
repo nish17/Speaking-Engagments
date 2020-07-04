@@ -18,13 +18,13 @@ I've delivered talks at GDG Ahmedabad's Devfest 2018 and 2019.
 
 It was a lightning talk on **Best Practices for Voice User Interface Design**. I spoke about best practices and tricks to make you voice app stand out.
 
-More details [over here](./Tech-Talks/DevFest Ahmedabad 2019/README.md)
+More details [over here](./Tech-Talks/DevFest-Ahmedabad-2019/README.md)
 
 ## GDG DevFest Ahmedabad 2018
 
 It was a codelab session on **Action on Google**. I spoke about the ways to make the Google Assistant's response dynamic.
 
-More details [over here](./Tech-Talks/DevFest Ahmedabad 2018/README.md)
+More details [over here](./Tech-Talks/DevFest-Ahmedabad-2018/README.md)
 
 
 # Workshops

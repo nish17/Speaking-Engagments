@@ -40,3 +40,10 @@ More details [over here](./Workshops/Alexa-Workshop-at-PDPU/README.md)
 I was invited by Voice Summit to speak at their Podcast Inside Voice Podcast. 
 
 More details [over here](./Podcasts/Inside-Voice-Podcast/README.md)
+
+
+## ❤️ Credits
+
+- [GDG Ahmedabad](https://gdgahmedabad.com/)
+- [EnCode - Programming Club of PDPU](https://www.facebook.com/encodepdpu/)
+- [Inside Voice Podcast (Voice Summit)](https://www.voicesummit.ai/)

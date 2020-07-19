@@ -3,9 +3,9 @@
 ## Here's the list of all my speaking engagements in the community.
 
 - [Tech-Talks](#tech-talks)
+  - [GDG New Delhi: Developer Days 2020](#developerDays2020)
   - [GDG Devfest Ahmedabad 2019](#devfestAhm19)
   - [GDG Devfest Ahmedabad 2018](#devfestAhm18)
-  - [GDG New Delhi: Developer Days 2020](#developerDays2020)
 - [Workshops](#Workshops)
   - [Alexa Skill Development](#alexaAtPDPU)
 - [Podcasts](#Podcasts)

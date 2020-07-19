@@ -5,6 +5,7 @@
 - [Tech-Talks](#tech-talks)
   - [GDG Devfest Ahmedabad 2019](#devfestAhm19)
   - [GDG Devfest Ahmedabad 2018](#devfestAhm18)
+  - [GDG New Delhi: Developer Days 2020](#developerDays2020)
 - [Workshops](#Workshops)
   - [Alexa Skill Development](#alexaAtPDPU)
 - [Podcasts](#Podcasts)

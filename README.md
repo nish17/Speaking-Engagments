@@ -15,7 +15,7 @@
 
 ### [GDG New Delhi: Developer Days 2020](./Tech-Talks/Developer-Days-GDG-New-Delhi-2020/README.md)
 
-It was a codelab session on **Actions on Google**. I spoke about the new tool for developing actions for Google Assistant which was launched in June 2020.
+It was a codelab session on **Actions on Google**. I spoke about the new tool (Actions Builder) for developing Actions for Google Assistant which was launched in June 2020.
 
 More details [over here](./Tech-Talks/Developer-Days-GDG-New-Delhi-2020/README.md)
 

@@ -8,8 +8,8 @@ As a result of speaking at this podcast, I also won the award 'Rising Star in Vo
 
 Episode Name: Developing Voice Skills as a Student
 
-Podcast Link: [https://podcasts.apple.com/us/podca...](https://podcasts.apple.com/us/podcast/developing-voice-skills-as-a-student/id1447407838?i=1000447426808)
+[Listen to the podcast](https://podcasts.apple.com/us/podcast/developing-voice-skills-as-a-student/id1447407838?i=1000447426808)
 
-Voice Summit Blog Post Link: [https://www.voicesummit.ai/blog/the-winners/....](https://www.voicesummit.ai/blog/the-winners-of-the-inside-voice-podcast-awards-are)
+[Read more about it over here](https://www.voicesummit.ai/blog/the-winners-of-the-inside-voice-podcast-awards-are)
 
-<img src="./risingStar.jp2" height=700 width=700>
+<img src="./risingStar.jp2" height=650 width=650>

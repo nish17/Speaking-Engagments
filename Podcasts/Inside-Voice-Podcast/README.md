@@ -12,10 +12,10 @@ with get this opportunity of speaking at Inside Voice Podcast.
 
 VOICE Summit Team called everyone single scholarship holder on the Podcast. 
 
-### How did you win an award?
+### How did you win an award 🏆?
 Only the most popular, highly downloaded episode and one who contributed to voice-tech community won the award. 
 
-### 'Rising Star in Voice' Award Winner
+### 🏆 'Rising Star in Voice' Award Winner
 As a result of speaking at this podcast, I won the award 'Rising Star in Voice'.
 
 <img src="./risingStar.jp2" height=650 width=650>

@@ -1,6 +1,6 @@
 # Inside Voice Podcast
 
-<img src="./inside-voice-logo.jpg" alt="Site Logo" height="100" title="Site Logo" align="right" />
+<img src="./inside-voice-logo.jpg" alt="Site Logo" height="150" title="Site Logo" align="right" />
 
 ## 🤔 What is this podcast about?
 This podcast is about showcasing the creative, inclusive community in voice technology with a focus on educational and innovative content.

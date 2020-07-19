@@ -52,5 +52,6 @@ More details [over here](./Podcasts/Inside-Voice-Podcast/README.md)
 ## ❤️ Credits
 
 - [GDG Ahmedabad](https://gdgahmedabad.com/)
+- [GDG New Delhi](http://gdgnewdelhi.github.io/)
 - [EnCode - Programming Club of PDPU](https://www.facebook.com/encodepdpu/)
 - [Inside Voice Podcast (Voice Summit)](https://www.voicesummit.ai/)

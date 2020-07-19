@@ -12,6 +12,12 @@
 
 ## [Tech-Talks](./Tech-Talks)
 
+### [GDG New Delhi: Developer Days 2020](./Tech-Talks/Developer-Days-GDG-New-Delhi-2020/README.md)
+
+It was a codelab session on **Actions on Google**. I spoke about the new tool for developing actions for Google Assistant which was launched in June 2020.
+
+More details [over here](./Tech-Talks/Developer-Days-GDG-New-Delhi-2020/README.md)
+
 ### [GDG DevFest Ahmedabad 2019](./Tech-Talks/DevFest-Ahmedabad-2019/README.md)
 
 It was a lightning talk on **Best Practices for Voice User Interface Design**. I spoke about best practices and tricks to make you voice app stand out.

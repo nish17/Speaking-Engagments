@@ -36,7 +36,7 @@ More details [over here](./Tech-Talks/DevFest-Ahmedabad-2018/README.md)
 
 ### [Alexa Skill Development Workshop at PDPU](./Workshops/Alexa-Workshop-at-PDPU/README.md)
 
-I was invited to conduct a workshop on Alexa Skill development by EnCode (programming club of Pandit Deedayal Petroleum University).
+It was a 6hr session on basics on Alexa Skill Development. I explained all the key terms required to get start with developing alexa skills. I had guided them step-by-step to design, develop and test alexa skill. 
 
 More details [over here](./Workshops/Alexa-Workshop-at-PDPU/README.md)
 

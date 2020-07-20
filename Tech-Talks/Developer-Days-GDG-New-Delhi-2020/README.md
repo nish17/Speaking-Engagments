@@ -11,4 +11,11 @@ This event was about introducing participants to digital and smart voice assista
 ### ✨ How did you get this opportunity?
 I had applied to speak when CFP (Call For Proposal) was annouced. Based on my previous experiences, Organizers of GDG New Delhi selected me to deliver this session.
 
+### Which codelab did you cover?
+I covered the Actions Builder Codelab Level 1.
 
+[Build Actions for Google Assistant using Actions Builder (Level 1)](https://codelabs.developers.google.com/codelabs/actions-builder-1/#0)
+
+### How long was the session?
+
+It was 2hr session.

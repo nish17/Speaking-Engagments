@@ -2,19 +2,19 @@
 
 All the talks that I've delivered are around Voice-Technology.  
 
-## 1. GDG New Delhi: Developer Days 2020
+## 1. [GDG New Delhi: Developer Days 2020](./Developer-Days-GDG-New-Delhi-2020/README.md)
 
 Banner: 
 
 <img src="./Developer-Days-GDG-New-Delhi-2020/banner.jpeg" alt="Speaker banner" height="500" title="Speaker banner"/>
 
-## 2. GDG Devfest Ahmedabad 2019
+## 2. [GDG DevFest Ahmedabad 2019](./DevFest-Ahmedabad-2019/README.md)
 
 Banner: 
 
 <img src="./DevFest-Ahmedabad-2019/banner.jpg" alt="Speaker banner" height="500" title="Speaker banner"/>
 
-## 3. GDG Devfest Ahmedabad 2018
+## 3. [GDG DevFest Ahmedabad 2018](./DevFest-Ahmedabad-2018/README.md)
 
 Banner: 
 

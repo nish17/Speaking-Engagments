@@ -1,5 +1,7 @@
 # Alexa Workshop at PDPU.
 
+[Link to Slides](https://speakerdeck.com/nimeshs17/alexa-workshop-pdpu-2019)
+
 ### 🤔 What was this workshop about?
 This workshop was about introducing students to digital and smart voice assistant called Amazon Alexa. Started from the very basics I explained all about developing skills for Amazon Alexa. How to use Alexa-hosted backend to write your own logic for the Alexa skill. 
 

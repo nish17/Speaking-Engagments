@@ -4,7 +4,7 @@
 
 ## Alexa Skill Development Workshop organized by Encode at [PDPU, Gandhinagar](http://pdpu.ac.in/).
 
-# 
+### 
 <img src="./Alexa-Workshop-at-PDPU/poster.jpg" alt="Site Logo" height="500" title="Site Logo"/>
 
 I was invited to conduct a workshop on Alexa Skill development by EnCode (programming club of Pandit Deedayal Petroleum University).

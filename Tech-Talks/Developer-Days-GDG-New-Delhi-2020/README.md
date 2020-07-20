@@ -9,6 +9,6 @@
 This event was about introducing participants to digital and smart voice assistant called Google Assistant. Started from the very basics of developing actions. Introduced them about Actions Builder, a new tool for desigining, developing and testing Actions for Google Assistant.
 
 ### ✨ How did you get this opportunity?
-I had applied to speak when CFP (Call For Proposals) was annouced. Based on my previous experiences, Organizers of GDG New Delhi selected me to deliver this session.
+I had applied to speak when CFP (Call For Proposal) was annouced. Based on my previous experiences, Organizers of GDG New Delhi selected me to deliver this session.
 
 

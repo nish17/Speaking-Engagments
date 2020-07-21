@@ -1,7 +1,6 @@
 <h1 align="center"><a href="https://podcasts.apple.com/us/podcast/inside-voice/id1447407838">Inside Voice Podcast</a></h1>
 
-## Episode Name: Developing Voice Skills as a Student
-
+<h2 align="center">Episode Name: Developing Voice Skills as a Student</h2>
 <p align="center">
 <a href="https://podcasts.apple.com/us/podcast/developing-voice-skills-as-a-student/id1447407838?i=1000447426808">Listen to the podcast</a> or
 <a href="https://www.voicesummit.ai/blog/the-winners-of-the-inside-voice-podcast-awards-are">Read more about it over here</a>

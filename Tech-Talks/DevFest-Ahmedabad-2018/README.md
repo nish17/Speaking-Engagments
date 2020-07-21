@@ -41,11 +41,11 @@ More than `150 people` registered and attended the DevFest out of which `50+ par
 
 ### Photos
 
-<img src="4.jpg"/>
-<img src="3.jpg"/>
-<img src="banner.jpeg"/>
-<img src="momento.jpg"/>
-<img src="2.jpg"/>
-<img src="5.jpg"/>
-<img src="6.jpg"/>
-<img src="7.jpg"/>
+<img src="4.jpg" height="300"/>
+<img src="3.jpg" height="300"/>
+<img src="banner.jpeg" height="300"/>
+<img src="momento.jpg" height="300"/>
+<img src="2.jpg" height="300"/>
+<img src="5.jpg" height="300"/>
+<img src="6.jpg" height="300"/>
+<img src="7.jpg" height="300"/>

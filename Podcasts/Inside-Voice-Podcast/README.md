@@ -1,6 +1,6 @@
 # [Inside Voice Podcast](https://podcasts.apple.com/us/podcast/inside-voice/id1447407838)
 
-[<img src="./inside-voice-logo.jpg" alt="Site Logo" height="150" title="Site Logo" align="right" />](https://podcasts.apple.com/us/podcast/inside-voice/id1447407838)
+[<img src="./images/inside-voice-logo.jpg" alt="Site Logo" height="150" title="Site Logo" align="right" />](https://podcasts.apple.com/us/podcast/inside-voice/id1447407838)
 
 ### 🤔 What is this podcast about?
 This podcast is about showcasing the creative, inclusive community in voice technology with a focus on educational and innovative content.
@@ -18,7 +18,7 @@ Only the most popular, highly downloaded episode and one who contributed to voic
 ### 🏆 'Rising Star in Voice' Award Winner
 As a result of speaking at this podcast, I won the award 'Rising Star in Voice'.
 
-<img src="./risingStar.jp2" height=650 width=650>
+<img src="./images/risingStar.jp2" height=650 width=650>
 
 Episode Name: Developing Voice Skills as a Student
 

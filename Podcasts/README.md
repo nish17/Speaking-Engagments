@@ -1,6 +1,6 @@
 # Podcasts
 
-[<img src="./Inside-Voice-Podcast/inside-voice-logo.jpg" alt="Site Logo" height="200" title="Site Logo" align="left" />](https://podcasts.apple.com/us/podcast/inside-voice/id1447407838)
+[<img src="./Inside-Voice-Podcast/images/inside-voice-logo.jpg" alt="Site Logo" height="200" title="Site Logo" align="left" />](https://podcasts.apple.com/us/podcast/inside-voice/id1447407838)
 
 ## [Inside Voice Podcast](https://podcasts.apple.com/us/podcast/inside-voice/id1447407838) by [Voice Summit](https://www.voicesummit.ai/) 2019
 

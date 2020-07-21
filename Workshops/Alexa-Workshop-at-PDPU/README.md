@@ -35,8 +35,8 @@ Number of people attended the workshop including the Encode Committee members we
 
 ### Photos
 
-<img src="1.jpg" alt="tshirt-winner-1" height="350" title="Winners"/>
-<img src="2.jpg" alt="tshirt-winner-2" height="350" title="Winners"/>
-<img src="3.jpeg" alt="hall-pic-3" height="350" title="event"/>
-<img src="4.jpeg" alt="hall-pic-4" height="350" title="event"/>
-<img src="5.jpeg" alt="hall-pic-5" height="350" title="event"/>
+<img src="./images/1.jpg" alt="tshirt-winner-1" height="350" title="Winners"/>
+<img src="./images/2.jpg" alt="tshirt-winner-2" height="350" title="Winners"/>
+<img src="./images/3.jpeg" alt="hall-pic-3" height="350" title="event"/>
+<img src="./images/4.jpeg" alt="hall-pic-4" height="350" title="event"/>
+<img src="./images/5.jpeg" alt="hall-pic-5" height="350" title="event"/>

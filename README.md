@@ -1,6 +1,6 @@
 # Speaking Engagements
 
-## Here's the list of all my speaking engagements in the community.
+## Here's the list of all my speaking engagements in the developer community.
 
 - [Tech-Talks](#tech-talks)
   - [GDG New Delhi: Developer Days 2020](./Tech-Talks/Developer-Days-GDG-New-Delhi-2020/README.md)

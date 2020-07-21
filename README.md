@@ -21,7 +21,7 @@ More details [over here](./Tech-Talks/Developer-Days-GDG-New-Delhi-2020/README.m
 
 ### [GDG DevFest Ahmedabad 2019](./Tech-Talks/DevFest-Ahmedabad-2019/README.md)
 
-It was a lightning talk on **Best Practices for Voice User Interface Design**. I spoke about best practices and tricks to make you voice app stand out.
+It was a lightning talk on **Best Practices for Voice User Interface Design**. I spoke about best practices and tricks to make your voice app stand out.
 
 More details [over here](./Tech-Talks/DevFest-Ahmedabad-2019/README.md)
 

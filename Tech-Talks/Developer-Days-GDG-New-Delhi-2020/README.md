@@ -7,7 +7,7 @@ or <a href="https://www.youtube.com/watch?v=W25_5eegl1I">Watch recording now</a>
 
 [![Watch the video](https://img.youtube.com/vi/W25_5eegl1I/maxresdefault.jpg)](https://youtu.be/W25_5eegl1I)
 
-### Date of Event: 17th July 2020.
+### Date of Event: 18th July 2020.
 
 ### 🤔 What was this event about?
 
@@ -30,4 +30,4 @@ It was 2hr session.
 ### How many people showed interest in attending the session and how many actually showed up at the event?
 
 I was shocked to see the overwhelming response from all the people in the community.
-More than 150 people registered for the event out of which 50+ participants attended the session.
+More than `150 people` registered for the event out of which `50+ participants` attended the session.

@@ -27,5 +27,5 @@ Only the most popular, highly downloaded episode and one who contributed to voic
 
 As a result of speaking at this podcast, I won the award 'Rising Star in Voice'.
 
-<img src="./images/risingStar.jp2" height=650 width=650>
+<img src="./images/risingStar.jp2" height=450 width=650>
 

@@ -3,13 +3,13 @@
 ## Here's the list of all my speaking engagements in the community.
 
 - [Tech-Talks](#tech-talks)
-  - [GDG New Delhi: Developer Days 2020](#developerDays2020)
-  - [GDG Devfest Ahmedabad 2019](#devfestAhm19)
-  - [GDG Devfest Ahmedabad 2018](#devfestAhm18)
+  - [GDG New Delhi: Developer Days 2020](./Tech-Talks/Developer-Days-GDG-New-Delhi-2020/README.md)
+  - [GDG Devfest Ahmedabad 2019](./Tech-Talks/DevFest-Ahmedabad-2019/README.md)
+  - [GDG Devfest Ahmedabad 2018](./Tech-Talks/DevFest-Ahmedabad-2018/README.md)
 - [Workshops](#Workshops)
-  - [Alexa Skill Development](#alexaAtPDPU)
+  - [Alexa Skill Development](./Workshops/Alexa-Workshop-at-PDPU/README.md)
 - [Podcasts](#Podcasts)
-  - [Inside Voice Podcast](#insideVoice)
+  - [Inside Voice Podcast](./Podcasts/Inside-Voice-Podcast/README.md)
 
 ## [Tech-Talks](./Tech-Talks)
 
@@ -42,7 +42,7 @@ More details [over here](./Workshops/Alexa-Workshop-at-PDPU/README.md)
 
 ## [Podcasts](./Podcasts)
 
-### [Inside Voice Podcast]((./Podcasts/Inside-Voice-Podcast/README.md))
+### [Inside Voice Podcast](./Podcasts/Inside-Voice-Podcast/README.md)
 
 I was invited by Voice Summit to speak at their Podcast Inside Voice Podcast. 
 

@@ -3,6 +3,9 @@
 
 [Link to Slides](https://speakerdeck.com/nimeshs17/actions-builder-101) || [Watch recording now](https://www.youtube.com/watch?v=W25_5eegl1I)
 
+[![Watch the video](https://img.youtube.com/vi/W25_5eegl1I/maxresdefault.jpg)](https://youtu.be/W25_5eegl1I)
+
+
 ### Date of Event: 17th July 2020.
 
 ### 🤔 What was this event about?
